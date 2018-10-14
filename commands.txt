@@ -1,0 +1,16 @@
+git init --> for initilaizing the git
+touch mnelson.txt --> create a new file
+git status --> After creating the new file, you can use the git status command to see which files git knows exist.
+git add . to add all the files or git add filename --> add the file which you want to push
+git commit -m "Your message about the commit"--> to commit the added files
+ git checkout -b <my branch name> --> to create a new branch and get into that branch
+git branch --> to see all the created branches
+git remote add origin https://github.com/cubeton/mynewrepository.git --> to make connection 
+with you git remotely
+git push origin my-new-branch(your branch name) --> to push the files to the branch
+git revert hashcode --> to revert your code to a particular point using the commit hashcode
+git pull origin master --> get changes locally
+ git log -->command again to see all new commits
+git checkout master --> git checkout branchname --> to check out the branch
+
+
