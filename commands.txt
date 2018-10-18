@@ -12,5 +12,6 @@ git revert hashcode --> to revert your code to a particular point using the comm
 git pull origin master --> get changes locally
  git log -->command again to see all new commits
 git checkout master --> git checkout branchname --> to check out the branch
+git push --set-upstream origin branchname
 
 
